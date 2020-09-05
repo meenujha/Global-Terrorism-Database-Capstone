@@ -1,6 +1,42 @@
 # Global-Terrorism-Database-Capstone
 This project is about to classify if an event is  terrorist or other forms of crime as per the Global Standards.
 
+## Key Concepts:
+
+
+
+
+1. Exploratory data analysis
+
+
+2. Statistical tests to check the significance of variables
+
+
+3. Treating the missing data
+
+
+4. Backward Elimination
+
+
+5. Modelling with null value imputation,by dropping nulls
+
+
+6. Crossvalidating the models
+
+
+7. Principal Component Analysis,K means Clustering
+
+
+8. Synthetic Minority Over-sampling Technique
+
+
+9. Evaluation of the models
+
+
+10. Application of the model and advantages of it
+********************************************************************************************************************************************************************************
+
+
 ![image](https://user-images.githubusercontent.com/60847819/92307749-30cc4080-efb6-11ea-98f8-06230ca075f0.png)
 
 Compared to most types of criminal violence, terrorism poses special challenges to a nation and exhausts all of its resources in prevention of it including the loss of life. While the human cost is devastating, the economic impact may be larger than most realize. Terrorism is one of the parameters that tourists check for, before visiting a country and hence if a Nation has more prevalent terrorism, chances are, despite its fascinating tourist attractions, it might end up in little to no Tourism. 
