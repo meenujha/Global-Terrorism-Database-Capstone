@@ -9,8 +9,12 @@ Our aim in this project was to classify the events as terrorist or other forms o
 
 In the course of this project i use Supervised learning classification.
 Classification is a subcategory of supervised learning where the goal is to predict the categorical class labels (discrete, unoredered values, group membership) of new instances based on past observations.
+
+
+
 More information about the project is in the attached Final Report.
 
+Since the data is big and a large amount of insights can be drawn from it,i have used tableau for the Exploratory data analysis and generating insights.
 Below is a peak into the tableau visualisation of different perpetrator groups of different attacks:
 
 ![image](https://user-images.githubusercontent.com/60847819/92307930-64f43100-efb7-11ea-8ad3-1783388b8742.png)
