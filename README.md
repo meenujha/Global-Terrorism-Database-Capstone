@@ -21,6 +21,6 @@ Below is a peak into the tableau visualisation of different perpetrator groups o
 
 ![image](https://user-images.githubusercontent.com/60847819/92308048-7be75300-efb8-11ea-9fb5-e44dcfa640bb.png)
 
-The visualisations can be viewed here: https://rb.gy/qzj7co
+Complete visualisations can be viewed here: https://rb.gy/qzj7co
 
 I have also made separate visualisations for the top 5 most adversely affected countries and made a forecast of attacks that can happen there till 2025.This can be viewed here: https://rb.gy/jh3sri
