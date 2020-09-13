@@ -18,7 +18,7 @@ This project is about to classify if an event is  terrorist or other forms of cr
 4. Backward Elimination
 
 
-5. Modelling with null value imputation,by dropping nulls
+5. Modelling with null value imputation and by dropping nulls
 
 
 6. Crossvalidating the models
